@@ -2,8 +2,6 @@
 ### REG NO:24900706
 ### EXPERIMENT:3 IMPLEMENTATION OF HALF ADDER AND HALF SUBTRACTOR CIRCUIT
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
-
 ### AIM:
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
